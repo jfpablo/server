@@ -2,5 +2,5 @@ actu();
 function actu()
 {
 document.title = "Fullgas modelisme";
-doc.Innerhtml = "cc";
+doc.innerHTML = "bienvenue sur le site";
 }
